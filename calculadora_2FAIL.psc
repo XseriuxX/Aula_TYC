@@ -2,11 +2,11 @@ Algoritmo calculadora
 	Definir  res, operador1, operador2, suma, resta, multiplicacion, division Como Entero
 	Repetir
 		Escribir " *** CALCULADORA *** "
-		Escribir " 1.- SUMAR
-		Escribir " 2.- RESTAR
-		Escribir " 3.- MULTIPLICAR
-		Escribir " 4.- DIVIDIR
-		Escribir " 0.- SALIR
+		Escribir " 1.- SUMAR"
+		Escribir " 2.- RESTAR"
+		Escribir " 3.- MULTIPLICAR"
+		Escribir " 4.- DIVIDIR"
+		Escribir " 0.- SALIR"
 		Escribir  "Introduzca una opción: "
 		Leer res
 		Escribir "Introduzca el primer operador: "
