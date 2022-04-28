@@ -9,7 +9,8 @@ Proceso calculadora
 	resultado_division<-numero1/numero2
 	Escribir "El resultado de la suma es: ",resultado_suma
 	Escribir "El resultado de la resta es: ",resultado_resta
-	Escribir "El resultado de la multiplicación es: ",resultado_producto
-	Escribir "El resultado de la división es: ",resultado_division
+	Escribir "El resultado de la multiplicaciÃ³n es: ",resultado_producto
+	Escribir "El resultado de la divisiÃ³n es: ",resultado_division
 	
 FinProceso
+
